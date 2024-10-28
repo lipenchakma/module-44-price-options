@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": 29.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "One group class per month",
+            "Free water refill"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard",
+        "price": 49.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Unlimited group classes",
+            "Free guest pass once a month",
+            "Access to sauna and steam room"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": 79.99,
+        "features": [
+            "24/7 gym access",
+            "Locker room and personal locker",
+            "Unlimited group classes",
+            "One personal training session per month",
+            "Access to sauna, steam room, and pool",
+            "Free monthly guest pass"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Elite",
+        "price": 99.99,
+        "features": [
+            "24/7 gym access",
+            "Private locker and towel service",
+            "Unlimited group classes",
+            "Weekly personal training sessions",
+            "Access to all amenities including spa and pool",
+            "Priority booking for classes",
+            "Monthly guest pass with no restrictions"
+        ]
+    }
+]
